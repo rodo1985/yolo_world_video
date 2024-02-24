@@ -4,3 +4,4 @@ ultralytics
 dill
 tqdm
 git+https://github.com/openai/CLIP.git
+imageio-ffmpeg
