@@ -1,3 +1,15 @@
+---
+title: Yolo World Video
+emoji: 🌎 
+colorFrom: yellow
+colorTo: pink
+sdk: gradio
+sdk_version: 4.19.2
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
 # YOLO-World Video Processing on Hugging Face Spaces
 
 Welcome to our YOLO-World video processing project on Hugging Face Spaces! This project leverages the power of YOLO (You Only Look Once) models for efficient and accurate real-time object detection in videos. Our interface allows users to upload videos, select object detection parameters, and visualize the processed video with detected objects highlighted.
