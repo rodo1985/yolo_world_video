@@ -10,7 +10,7 @@ pinned: false
 license: apache-2.0
 ---
 
-# YOLO-World Video Processing on Hugging Face Spaces
+# 🌎 YOLO-World Video Processing on Hugging Face Spaces
 
 Welcome to our YOLO-World video processing project on Hugging Face Spaces! This project leverages the power of YOLO (You Only Look Once) models for efficient and accurate real-time object detection in videos. Our interface allows users to upload videos, select object detection parameters, and visualize the processed video with detected objects highlighted.
 
@@ -35,10 +35,6 @@ Welcome to our YOLO-World video processing project on Hugging Face Spaces! This 
 - **YOLO (You Only Look Once):** For real-time object detection.
 - **OpenCV:** For video processing and rendering.
 - **Hugging Face Spaces:** Hosting the interactive application.
-
-## Try It Out
-
-Ready to see YOLO-World in action? [Visit our Hugging Face Space](#) to start detecting objects in your videos!
 
 ## Local Setup (Optional)
 
